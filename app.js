@@ -4,7 +4,7 @@ const BTN = document.getElementById("btn");
 
 setTimeout(() => {
     popsUps.style.display = "flex";
-}, 3000)
+}, 5000)
 
 BTN.addEventListener("click", () =>{
     popsUps.style.display = "none";
